@@ -4,4 +4,4 @@ ReactJS tutorial - building a tic tac toe game from the oficial site: https://re
 
 ## Why?
 
-In order to better understand what the developers snd their needs
+In order to better understand what the developers and their needs
